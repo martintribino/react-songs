@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Song app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Temas vistos: react, redux, js
 
 ## Available Scripts
 
